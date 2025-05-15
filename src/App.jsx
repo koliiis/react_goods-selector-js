@@ -30,7 +30,6 @@ export const App = () => {
               className="delete ml-3"
               onClick={() => setSelectedGood('')}
             >
-              ×
             </button>
           </>
         ) : (
